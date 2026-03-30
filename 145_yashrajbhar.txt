@@ -1,1 +1,1 @@
-echo "This is my first Git file" > 101_yash.txt
+echo "This is my first Git file" 
